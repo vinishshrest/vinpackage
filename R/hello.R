@@ -14,5 +14,5 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 hello <- function(x) {
-  print(x^4)
+  print(x^6)
 }
